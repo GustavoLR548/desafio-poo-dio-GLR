@@ -1,9 +1,11 @@
-import br.com.dio.desafio.dominio.Bootcamp;
-import br.com.dio.desafio.dominio.Curso;
-import br.com.dio.desafio.dominio.Dev;
-import br.com.dio.desafio.dominio.Mentoria;
+package com.gustavolr;
 
 import java.time.LocalDate;
+
+import com.gustavolr.dominio.Bootcamp;
+import com.gustavolr.dominio.Curso;
+import com.gustavolr.dominio.Dev;
+import com.gustavolr.dominio.Mentoria;
 
 public class Main {
     public static void main(String[] args) {

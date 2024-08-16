@@ -1,4 +1,4 @@
-package br.com.dio.desafio.dominio;
+package com.gustavolr.dominio;
 
 public class Curso extends Conteudo{
 
