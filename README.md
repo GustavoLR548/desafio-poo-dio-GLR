@@ -10,6 +10,13 @@ Minhas melhorias no desafio "Abstração de um Bootcamp Usando POO em Java" com 
 - Adicionado geração de "jar" pelo terminal
 - Adicionado menu interativo para interação com o sistema
 
+# Como rodar o projeto
+```
+mvn compile
+mvn package
+java -jar target/bootcampdio-1.0-SNAPSHOT.jar
+```
+
 ------------
 
 [Repositório original](https://github.com/cami-la/desafio-poo-dio)
