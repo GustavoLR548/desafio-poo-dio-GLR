@@ -13,4 +13,10 @@ public class Curso extends Conteudo{
     public double calcularXp() {
         return xp * cargaHoraria;
     }
+
+    @Override
+    public String toString() {
+        return "Curso [titulo=" + titulo + ", cargaHoraria=" + cargaHoraria + ", descricao=" + descricao + ", xp=" + xp
+                + "]";
+    }
 }
